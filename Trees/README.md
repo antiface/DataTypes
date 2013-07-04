@@ -19,6 +19,7 @@ Binary Trees
 * Top tree
 * Treap
 * Weight-balanced tree
+
 B-trees
 * B-tree
 * B+ tree
@@ -30,6 +31,7 @@ B-trees
 * Queap
 * Fusion tree
 * Bx-tree
+
 Heaps
 * Heap
 * Binary heap
@@ -46,6 +48,7 @@ Heaps
 * Skew heap
 * Ternary heap
 * D-ary heap
+
 Trees
 * Tree
 * Radix tree
@@ -59,6 +62,7 @@ Trees
 * X-fast tree
 * Y-fast tree
 * Ctree
+
 Multiway trees
 * Ternary tree
 * K-ary tree
@@ -73,7 +77,8 @@ Multiway trees
 * Exponential tree
 * Fenwick tree
 * Van Emde Boas tree
-Space-partitioning trees:
+
+Space-partitioning trees
 * Segment tree
 * Interval tree
 * Range tree
@@ -100,6 +105,7 @@ Space-partitioning trees:
 * Bounding interval hierarchy
 * BSP tree
 * Rapidly exploring random tree
+
 Application-specific trees
 * Abstract syntax tree
 * Parse tree
