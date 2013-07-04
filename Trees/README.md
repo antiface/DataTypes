@@ -46,7 +46,7 @@ Heaps
 * Skew heap
 * Ternary heap
 * D-ary heap
-Trees (In these data structures each tree node compares a bit slice of key values.)
+Trees
 * Tree
 * Radix tree
 * Suffix tree
@@ -73,7 +73,7 @@ Multiway trees
 * Exponential tree
 * Fenwick tree
 * Van Emde Boas tree
-Space-partitioning trees: (These are data structures used for space partitioning or binary space partitioning.)
+Space-partitioning trees:
 * Segment tree
 * Interval tree
 * Range tree
