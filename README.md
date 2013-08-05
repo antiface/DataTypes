@@ -1,3 +1,4 @@
+#[Rationale =>] (https://github.com/antiface/DataTypes/blob/master/RATIONALE.md)
 DataTypes
 =========
 * [Data Types] (https://github.com/antiface/DataTypes/tree/master/DataTypes)
