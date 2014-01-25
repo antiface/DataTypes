@@ -1,11 +1,11 @@
 Construction
 ============
 * MANUFACTURE
-*     MAKE
-*     BUILD
-*     CONSTRUCT
-*     CREATE
-*     GENERATE
+    * MAKE
+    * BUILD
+    * CONSTRUCT
+    * CREATE
+    * GENERATE
 * DELIVER
-*     SHIP
-*     DISTRIBUTE
+    * SHIP
+    * DISTRIBUTE
