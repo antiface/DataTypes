@@ -13,3 +13,4 @@ Numerical         Severity
               7       Debug: debug-level messages
 
               Table 2. Syslog Message Severities
+* Source: [RFC-5424] (http://tools.ietf.org/html/rfc5424)
