@@ -8,3 +8,5 @@ A software interrupt is caused either by an exceptional condition in the process
 Each interrupt has its own interrupt handler. The number of hardware interrupts is limited by the number of interrupt request (IRQ) lines to the processor, but there may be hundreds of different software interrupts.
 
 Interrupts are a commonly used technique for computer multitasking, especially in real-time computing. Such a system is said to be interrupt-driven.
+
+* Source: [Interrupt - Wikipedia] (http://en.wikipedia.org/wiki/Interrupt)
