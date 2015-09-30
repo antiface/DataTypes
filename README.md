@@ -6,3 +6,5 @@ DataTypes
 * [Trees] (https://github.com/antiface/DataTypes/tree/master/Trees)
 * [Hashes] (https://github.com/antiface/DataTypes/tree/master/Hashes)
 * [Graphs] (https://github.com/antiface/DataTypes/tree/master/Graphs)
+
+## [BACK TO INDEX OF REPOSITORIES] (https://github.com/antiface/Index)
